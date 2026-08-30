@@ -43,7 +43,7 @@ Timestamp,Component,Log_Level,Message
 2026-08-25T13:58:39Z, APPLICATION, ExchangeMail, INFO, Session heartbeat status=ACTIVE token_id=GAC-993821-X3
 2026-08-25T14:22:05Z, APPLICATION, ExchangeMail, WARNING, Active session token GAC-993821-X3 accessed concurrently by foreign host 45.138.99.12
 2026-08-25T14:26:10Z, APPLICATION, ExchangeMail, INFO, Administrative settings modified for user kmensah.
-2026-08-25T14:26:11Z, APPLICATION, ExchangeMail, SECURITY, Mail routing rule added 'Forward matching "invoice;payment;GHS" to external_billing_vault@secure-mail.com'
+2026-08-25T14:26:11Z, APPLICATION, ExchangeMail, SECURITY, Mail routing rule added Forward matching 'invoice;payment;GHS' to external_billing_vault@secure-mail.com
 2026-08-25T14:31:10Z, APPLICATION, ExchangeMail, INFO, Active sync verification processing token_id=GAC-993821-X3
 2026-08-25T14:38:10Z, APPLICATION, ExchangeMail, INFO, Active sync verification processing token_id=GAC-993821-X3
 2026-08-25T14:44:10Z, APPLICATION, ExchangeMail, INFO, Active sync verification processing token_id=GAC-993821-X3
