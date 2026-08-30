@@ -1,0 +1,4 @@
+Timestamp,Source_IP,Destination_IP,Protocol,Destination_Port,Bytes_Transferred,Firewall_Action,Notes
+2026-08-25T08:14:22Z,192.168.10.45,102.176.56.12,HTTPS,443,4200,ALLOW,Mr. Mensah local desktop login to municipal webmail.
+2026-08-25T11:30:15Z,192.168.10.45,198.51.100.77,HTTP,80,12400,ALLOW,ALERT: Outbound unencrypted HTTP connection to external site. Session token vulnerable to network sniffing.
+2026-08-25T14:22:05Z,45.138.99.12,102.176.56.12,HTTPS,443,8500,ALLOW,CRITICAL ANOMALY: Active session cookie used by external foreign IP while local session is still alive. Concurrent session hijack event.
